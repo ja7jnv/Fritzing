@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" gorn="0" id="svg41" height="0.78570181in" width="0.5562523in" y="0in"  x="0in" version="1.2" viewBox="0 0 14.128811 19.956826">
+    <metadata id="metadata47" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="" xmlns:cc="http://creativecommons.org/ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs45" />
+    <desc id="desc2" >
+        <referenceFile >sparkfun-poweric_transformer_pcb.svg</referenceFile>
+    </desc>
+    <g  transform="translate(9.0439809e-4,-0.50933996)">
+        <g >
+            <g stroke="#000000" gorn="0.3.0.0" id="silkscreen" stroke-width="0.25000002"  style="stroke-miterlimit:4;stroke-dasharray:none">
+                <line stroke="#000000" gorn="0.3.0.0.0" x2="0.063500002" id="line18" y1="2.9775" stroke-width="0.25000002"  y2="2.9775" class="other" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" x1="14.0635"/>
+                <line stroke="#000000" gorn="0.3.0.0.1" x2="0.063500002" id="line20" y1="2.9775" stroke-width="0.25000002"  y2="17.977501" class="other" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" x1="0.063500002"/>
+                <line stroke="#000000" gorn="0.3.0.0.2" x2="14.0635" id="line22" y1="17.977501" stroke-width="0.25000002"  y2="17.977501" class="other" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" x1="0.063500002"/>
+                <line stroke="#000000" gorn="0.3.0.0.3" x2="14.0635" id="line24" y1="17.977501" stroke-width="0.25000002"  y2="2.9775" class="other" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" x1="14.0635"/>
+                <line stroke="#000000" gorn="0.3.0.0.4" x2="3.7503653" id="line26" y1="2.9449921" stroke-width="0.25000002"  y2="0.57374436" class="other" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" x1="3.7503653"/>
+                <line stroke="#000000" gorn="0.3.0.0.5" x2="10.3655" id="line28" y1="0.59149343" stroke-width="0.25000002"  y2="0.59149343" class="other" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" x1="3.7614999"/>
+                <line stroke="#000000" gorn="0.3.0.0.6" x2="10.353898" id="line30" y1="0.59961683" stroke-width="0.25000002"  y2="2.9708669" class="other" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" x1="10.353898"/>
+                <line stroke="#000000" gorn="0.3.0.0.7" x2="3.7504883" id="line32" y1="18.008238" stroke-width="0.25000002"  y2="20.401764" class="other" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" x1="3.7504883"/>
+                <line stroke="#000000" gorn="0.3.0.0.8" x2="10.3655" id="line34" y1="20.391495" stroke-width="0.25000002"  y2="20.391495" class="other" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" x1="3.7614999"/>
+                <line stroke="#000000" gorn="0.3.0.0.9" x2="10.354489" id="line36" y1="20.401764" stroke-width="0.25000002"  y2="18.008238" class="other" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" x1="10.354489"/>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(9.0439809e-4,-0.50933996)">
+        <g >
+            <g gorn="0.4.0.0" id="copper1" >
+                <g gorn="0.4.0.0.0" id="copper0" >
+                    <circle stroke="#f7bd13" gorn="0.4.0.0.0.0" cy="5.3975" id="connector0pad" r="0.75000006" fill="none" stroke-width="0.50000006"  cx="1.9812002" connectorname="1" style="stroke-miterlimit:4;stroke-dasharray:none"/>
+                    <circle stroke="#f7bd13" gorn="0.4.0.0.0.1" cy="15.557501" id="connector1pad" r="0.75000006" fill="none" stroke-width="0.50000006"  cx="1.9812002" connectorname="2" style="stroke-miterlimit:4;stroke-dasharray:none"/>
+                    <circle stroke="#f7bd13" gorn="0.4.0.0.0.2" cy="15.557501" id="connector2pad" r="0.75000006" fill="none" stroke-width="0.50000006"  cx="12.141201" connectorname="3" style="stroke-miterlimit:4;stroke-dasharray:none"/>
+                    <circle stroke="#f7bd13" gorn="0.4.0.0.0.3" cy="10.4775" id="connector3pad" r="0.75000006" fill="none" stroke-width="0.50000006"  cx="12.141201" connectorname="4" style="stroke-miterlimit:4;stroke-dasharray:none"/>
+                    <circle stroke="#f7bd13" gorn="0.4.0.0.0.4" cy="5.3975" id="connector5pin" r="0.75000006" fill="none" stroke-width="0.50000006"  cx="12.141201" style="stroke-miterlimit:4;stroke-dasharray:none" connectorname="4"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

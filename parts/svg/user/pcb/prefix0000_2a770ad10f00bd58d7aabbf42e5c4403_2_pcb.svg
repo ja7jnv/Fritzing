@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" height="0.65051997in" version="1.2" width="0.55618107in" gorn="0" x="0in"  id="svg29" y="0in" viewBox="0 0 40.045004 46.837344">
+    <desc >
+        <referenceFile >Transformer Sketch pcb corrected in forum v4.svg</referenceFile>
+    </desc>
+    <defs  id="defs29"/>
+    <g gorn="0.2"  id="silkscreen">
+        <line y2="8.4401331" gorn="0.2.0" stroke="#000000" y1="8.4401331" stroke-linecap="round" x2="0.18000001"  class="other" id="line20" x1="39.865002" stroke-width="0.36"/>
+        <line y2="38.338211" gorn="0.2.1" stroke="#000000" y1="8.3869267" stroke-linecap="round" x2="0.18000001"  class="other" id="line21" x1="0.18000001" stroke-width="0.302145"/>
+        <line y2="38.397171" gorn="0.2.2" stroke="#000000" y1="38.397171" stroke-linecap="round" x2="39.865002"  class="other" id="line22" x1="0.18000001" stroke-width="0.36"/>
+        <line y2="8.3873978" gorn="0.2.3" stroke="#000000" y1="38.449905" stroke-linecap="round" x2="39.865002"  class="other" id="line23" x1="39.865002" stroke-width="0.302705"/>
+        <line y2="0.17997332" gorn="0.2.4" stroke="#000000" y1="8.3159733" stroke-linecap="round" x2="10.6625"  class="other" id="line24" x1="10.6625" stroke-width="0.36"/>
+        <line y2="0.17997332" gorn="0.2.5" stroke="#000000" y1="0.17997332" stroke-linecap="round" x2="29.3825"  class="other" id="line25" x1="10.6625" stroke-width="0.36"/>
+        <line y2="8.3879728" gorn="0.2.6" stroke="#000000" y1="0.17997332" stroke-linecap="round" x2="29.3825"  class="other" id="line26" x1="29.3825" stroke-width="0.36"/>
+        <line y2="46.657372" gorn="0.2.7" stroke="#000000" y1="38.449371" stroke-linecap="round" x2="10.774667"  class="other" id="line27" x1="10.774667" stroke-width="0.36"/>
+        <line y2="46.657372" gorn="0.2.8" stroke="#000000" y1="46.657372" stroke-linecap="round" x2="29.494665"  class="other" id="line28" x1="10.774667" stroke-width="0.36"/>
+        <line y2="38.449371" gorn="0.2.9" stroke="#000000" y1="46.657372" stroke-linecap="round" x2="29.494665"  class="other" id="line29" x1="29.494665" stroke-width="0.36"/>
+        <g transform="scale(-1)" >
+            <g >
+                <ellipse ry="1.2887678" style="fill:#000000;fill-opacity:1" rx="1.2887681" gorn="0.2.10.0.0" cx="-2.843998" stroke="#000000"  class="other" id="circle29" fill="none" cy="-11.123963" stroke-width="0.230462"/>
+            </g>
+        </g>
+    </g>
+    <g gorn="0.3"  id="copper1">
+        <g gorn="0.3.0"  id="copper0">
+            <circle gorn="0.3.0.0" cx="10.763991" stroke="#000000"  id="nonconn4" r="2.4839978" fill="#000000" cy="11.339963" stroke-width="0"/>
+            <circle gorn="0.3.0.1" cx="10.763991" stroke="#000000"  id="nonconn4-8" r="2.4839978" fill="#000000" cy="35.603943" stroke-width="0"/>
+            <circle gorn="0.3.0.2" cx="29.411976" stroke="#000000"  id="nonconn4-2" r="2.4839978" fill="#000000" cy="35.603943" stroke-width="0"/>
+            <circle gorn="0.3.0.3" cx="29.411976" stroke="#000000"  id="nonconn4-9" r="2.4839978" fill="#000000" cy="11.312602" stroke-width="0"/>
+            <circle connectorname="1" gorn="0.3.0.4" cx="5.9442472" stroke="#f7bd13"  id="connector0pad" r="2.34425" fill="none" cy="16.744211" stroke-width="0.72"/>
+            <circle connectorname="2" gorn="0.3.0.5" cx="5.9442472" stroke="#f7bd13"  id="connector1pad" r="2.34425" fill="none" cy="30.645041" stroke-width="0.72"/>
+            <circle connectorname="3" gorn="0.3.0.6" cx="34.31131" stroke="#f7bd13"  id="connector2pad" r="2.34425" fill="none" cy="30.645041" stroke-width="0.72"/>
+            <circle connectorname="4" gorn="0.3.0.7" cx="34.31131" stroke="#f7bd13"  id="connector3pad" r="2.34425" fill="none" cy="16.744211" stroke-width="0.72"/>
+        </g>
+    </g>
+</svg>

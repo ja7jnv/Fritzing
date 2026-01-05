@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.6b.2021-02-21.0.9.6" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="Transformer small_30e45d701695fe71981a0635ced7d4bc_1" modelIndex="5780" path="/home/shigeaki/ドキュメント/Fritzing/parts/user/Transformer small_30e45d701695fe71981a0635ced7d4bc_1.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
